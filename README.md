@@ -2,11 +2,14 @@
 ### Project 1
 - ﻿﻿Description
 - ﻿﻿Links
+  
 ### Project 2
 - Description
 - [myproject links](www.google.com)
+  
 ## Education
 - Some University
+  
 ## Work History
 - Workplace 1
 - Work Place 2
